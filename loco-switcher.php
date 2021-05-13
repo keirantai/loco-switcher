@@ -1,15 +1,15 @@
 <?php
 /**
- * @package TAI
+ * @package tai
  */
 /*
 Plugin Name: Loco Switcher by T.A.I.
 Plugin URI: http://taicreation.com/
 Description: Use this with Loco Translate. This is a language switcher for Loco Translate plugin.
 Version: 0.0.1
-Author: T.A.I.
+Author: Keiran
 Author URI: http://taicreation.com
-License: Private
+License: Apache 2.0
 */
 
 if ( ! class_exists( 'LocoSwitcher' ) ) {
